@@ -11,6 +11,10 @@
 | Component | Pins |
 | --- | --- |
 | 4 direct-input switches | XIAO D0, D1, D2, D3 |
+| PMW3610 SCK | XIAO D5 (P0.05) — Trackball step |
+| PMW3610 SDIO (MOSI/MISO) | XIAO D8 (P1.13) — Trackball step |
+| PMW3610 motion interrupt | XIAO D9 (P1.14) — Trackball step |
+| PMW3610 chip select | XIAO D10 (P1.15) — Trackball step |
 
 ## Tutorial commits
 
@@ -19,6 +23,7 @@
 | [Level 1: ZMK Studio](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/level-1) | `feat: enable official ZMK Studio` |
 | [Level 2: DYA extensions](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/level-2) | `feat: add DYA Studio protocol baseline` |
 | [Keymap / Macro / Combo](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/modules/keymap) | `feat: add editable keymap modules` |
+| [Trackball](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/modules/trackball) | `feat: add editable PMW3610 controls` |
 
 ## Development
 

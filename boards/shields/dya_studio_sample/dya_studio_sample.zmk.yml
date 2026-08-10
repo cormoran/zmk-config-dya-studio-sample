@@ -6,3 +6,4 @@ url: https://github.com/cormoran/zmk-config-dya-studio-sample
 requires: [seeed_xiao]
 features:
   - keys
+  - pointer

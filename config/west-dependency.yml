@@ -55,3 +55,9 @@ manifest:
     - name: zmk-feature-module-physical-layout
       remote: cormoran
       revision: main
+    - name: zmk-module-runtime-input-processor
+      remote: cormoran
+      revision: main
+    - name: zmk-driver-pmw3610-with-custom-studio-rpc
+      remote: cormoran
+      revision: main
