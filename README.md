@@ -18,6 +18,7 @@
 | --- | --- |
 | [Level 1: ZMK Studio](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/level-1) | `feat: enable official ZMK Studio` |
 | [Level 2: DYA extensions](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/level-2) | `feat: add DYA Studio protocol baseline` |
+| [Keymap / Macro / Combo](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/modules/keymap) | `feat: add editable keymap modules` |
 
 ## Development
 
