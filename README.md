@@ -12,6 +12,12 @@
 | --- | --- |
 | 4 direct-input switches | XIAO D0, D1, D2, D3 |
 
+## Tutorial commits
+
+| Developer guide | Sample commit |
+| --- | --- |
+| [Level 1: ZMK Studio](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/level-1) | `feat: enable official ZMK Studio` |
+
 ## Development
 
 ### Setup
