@@ -26,6 +26,7 @@
 | [Trackball](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/modules/trackball) | `feat: add editable PMW3610 controls` |
 | [Connection](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/modules/connection) | `feat: add connection and OS controls` |
 | [Settings](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/modules/settings) | `feat: expose settings in DYA Studio` |
+| [Diagnostics](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/modules/diagnostics) | `feat: add DYA Studio diagnostics` |
 
 ## Development
 
