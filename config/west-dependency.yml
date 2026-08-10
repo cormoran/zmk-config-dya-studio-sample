@@ -67,6 +67,9 @@ manifest:
     - name: zmk-feature-os-detection
       remote: cormoran
       revision: main
+    - name: zmk-module-settings-rpc
+      remote: cormoran
+      revision: main
     - name: zmk-driver-pmw3610-with-custom-studio-rpc
       remote: cormoran
       revision: main
