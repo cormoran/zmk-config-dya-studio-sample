@@ -1,0 +1,6 @@
+# manifest to setup dependencies under <west topdir>/dependencies
+# Usage: cd repo && west init -l config
+
+manifest:
+  self:
+    import: west-isolated.yml

@@ -1,0 +1,15 @@
+manifest:
+  remotes:
+    - name: cormoran
+      url-base: https://github.com/cormoran
+    - name: zmkfirmware
+      url-base: https://github.com/zmkfirmware
+  projects:
+    - name: zmk-west-commands
+      remote: cormoran
+      import: true
+      revision: v1.0.0
+    - name: zmk
+      remote: zmkfirmware
+      import: app/west.yml
+      revision: main

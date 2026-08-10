@@ -1,0 +1,5 @@
+# manifest to setup dependencies under <west topdir>
+# Usage: cd repo && west init -l . --mf config/west-workspace.yml
+manifest:
+  self:
+    import: config/west-dependency.yml
