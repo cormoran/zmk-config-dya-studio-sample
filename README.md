@@ -24,6 +24,7 @@
 | [Level 2: DYA extensions](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/level-2) | `feat: add DYA Studio protocol baseline` |
 | [Keymap / Macro / Combo](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/modules/keymap) | `feat: add editable keymap modules` |
 | [Trackball](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/modules/trackball) | `feat: add editable PMW3610 controls` |
+| [Connection](https://dya-studio-dev.cormoran707.workers.dev/developer-guide/modules/connection) | `feat: add connection and OS controls` |
 
 ## Development
 
