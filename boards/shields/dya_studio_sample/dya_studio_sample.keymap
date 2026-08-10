@@ -11,5 +11,21 @@
                 &kp C &kp D
             >;
         };
+
+        mac_layer {
+            bindings = <&kp A &kp B &kp C &kp D>;
+        };
+
+        windows_layer {
+            bindings = <&kp W &kp I &kp N &kp D>;
+        };
+
+        linux_layer {
+            bindings = <&kp L &kp I &kp N &kp X>;
+        };
+
+        mouse_layer {
+            bindings = <&kp M &kp O &kp U &kp S>;
+        };
     };
 };
