@@ -1,9 +1,16 @@
-# cormoran's ZMK config template
+# DYA Studio sample ZMK config
 
-![ZMK Version](https://img.shields.io/badge/ZMK-master-blue)
-[![Build ZMK firmware](https://github.com/cormoran/zmk-config-template/actions/workflows/build.yml/badge.svg)](https://github.com/cormoran/zmk-config-template/actions/workflows/build.yml)
+段階的に [DYA Studio 開発者ガイド](https://dya-studio-dev.cormoran707.workers.dev/developer-guide)
+の各機能を導入する、キーボード制作者向けの参照実装です。
 
-After forking, replace all string `cormoran/zmk-config-template` with yours.
+最初のコミットでは、Seeed Studio XIAO nRF52840 と組み合わせる非分割の
+`dya_studio_sample` shield を定義します。ハードウェア構成は direct input の
+4キーだけです。PMW3610 の配線・ドライバ・Studio 設定は Trackball のステップで
+追加します。
+
+| Component | Pins |
+| --- | --- |
+| 4 direct-input switches | XIAO D0, D1, D2, D3 |
 
 ## Development
 

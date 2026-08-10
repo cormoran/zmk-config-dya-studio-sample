@@ -1,0 +1,7 @@
+if SHIELD_DYA_STUDIO_SAMPLE
+
+config ZMK_KEYBOARD_NAME
+    # Bluetooth device names are limited to 16 bytes.
+    default "DYA Studio Demo"
+
+endif
