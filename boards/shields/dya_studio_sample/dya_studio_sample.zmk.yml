@@ -1,0 +1,8 @@
+file_format: "1"
+id: dya_studio_sample
+name: DYA Studio Sample
+type: shield
+url: https://github.com/cormoran/zmk-config-dya-studio-sample
+requires: [seeed_xiao]
+features:
+  - keys
